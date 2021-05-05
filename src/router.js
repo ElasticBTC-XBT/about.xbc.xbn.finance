@@ -35,7 +35,7 @@ let routers = [
         path: '/',
         name: 'home',
         components: {
-            default: Home,
+            default: XBC,
         },
         viShort: '/vi',
         krShort: '/kr',

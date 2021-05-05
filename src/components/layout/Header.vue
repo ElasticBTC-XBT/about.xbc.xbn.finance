@@ -27,13 +27,13 @@
                                 :class="navPosition && `header-nav-${navPosition}`">
 
                           <li @click="closeMenu" class="item-header-main">
-                            <router-link to="/roadmap/" class="text-main">Learn</router-link>
-
-                            <div class="list-item-header-child">
-                              <ul>
-                                <li @click="closeMenu">
-                                  <a href="https://tothemoon.xbn.finance/">White Paper</a>
+                            <li @click="closeMenu">
+                                  <a href="https://docs.xbc.xbn.finance/">White Paper</a>
                                 </li>
+
+                            <!-- <div class="list-item-header-child">
+                              <ul>
+                                
                                 <li @click="closeMenu">
                                   <router-link to="/governance/">Governance</router-link>
                                 </li>
@@ -47,7 +47,7 @@
                                   </a>
                                 </li>
                               </ul>
-                            </div>
+                            </div> -->
                           </li>
 
 <!--                            <li @click="closeMenu">-->
@@ -63,19 +63,19 @@
                             <router-link to="/xbc/">XBC</router-link>
                           </li>
                             <li @click="closeMenu">
-                                <router-link to="/xbn/airdrop/">{{ $t("airdrop.airdrop") }}</router-link>
+                                <a href="https://www.xbn.finance/xbn/airdrop/">{{ $t("airdrop.airdrop") }}</a>
                             </li>
                           <li @click="closeMenu">
-                            <router-link to="/xbn/sales/"><img src="https://i.imgur.com/jmPNlwr.png" style="height: 17px; display: inline-block; margin-bottom: -2px">Sales</router-link>
+                            <a to="https://www.xbn.finance/xbn/sales/"><img src="https://i.imgur.com/jmPNlwr.png" style="height: 17px; display: inline-block; margin-bottom: -2px">Sales</a>
                           </li>
 
 <!--                            <li @click="closeMenu">-->
 <!--                                <router-link to="/xbn/lottery/">{{ $t("header.lottery") }}</router-link>-->
 <!--                            </li>-->
 
-                            <li @click="closeMenu">
+                            <!-- <li @click="closeMenu">
                                 <router-link to="/xbn/gratitude/">{{ $t("header.gratitude") }}</router-link>
-                            </li>
+                            </li> -->
 
 
 
