@@ -40,7 +40,7 @@
       </p>
       <p>
 
-        <input v-model="ref_link" onclick="select()"></input>
+        <input v-model="ref_link" onclick="select()" />
 
       </p>
       <p style="text-align: center">

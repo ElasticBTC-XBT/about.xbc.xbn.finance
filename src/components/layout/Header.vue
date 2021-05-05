@@ -27,9 +27,9 @@
                                 :class="navPosition && `header-nav-${navPosition}`">
 
                           <li @click="closeMenu" class="item-header-main">
-                            <li @click="closeMenu">
+                            
                                   <a href="https://docs.xbc.xbn.finance/">White Paper</a>
-                                </li>
+                            
 
                             <!-- <div class="list-item-header-child">
                               <ul>
@@ -60,7 +60,7 @@
                             <!--                            <router-link to="/xbn/sales/">XBN Sales</router-link>-->
                             <!--                          </li>-->
                           <li @click="closeMenu">
-                            <router-link to="/xbc/">XBC</router-link>
+                            <a href="https://xbn.finance">XBN</a>
                           </li>
                             <li @click="closeMenu">
                                 <a href="https://www.xbn.finance/xbn/airdrop/">{{ $t("airdrop.airdrop") }}</a>
@@ -69,22 +69,11 @@
                             <a to="https://www.xbn.finance/xbn/sales/"><img src="https://i.imgur.com/jmPNlwr.png" style="height: 17px; display: inline-block; margin-bottom: -2px">Sales</a>
                           </li>
 
-<!--                            <li @click="closeMenu">-->
-<!--                                <router-link to="/xbn/lottery/">{{ $t("header.lottery") }}</router-link>-->
-<!--                            </li>-->
-
-                            <!-- <li @click="closeMenu">
-                                <router-link to="/xbn/gratitude/">{{ $t("header.gratitude") }}</router-link>
-                            </li> -->
-
-
-
-
                         </ul>
                         <ul class="list-reset header-nav-right">
                             <c-button tag="a" class="button button-primary button-sm" color="primary" wide-mobile
-                                      href="/buy" >
-                                {{ $t("header.buy") }} XBN
+                                      href="https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x0321394309cad7e0e424650844c3ab3b659315d3" >
+                                {{ $t("header.buy") }} 
                             </c-button>
                         </ul>
                       <ul class="list-reset header-nav-right">
