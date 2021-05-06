@@ -16,7 +16,7 @@
           <c-section-header tag="h1" :data="sectionHeader" class="center-content"/>
           <p style="text-align: center">
             <b>To get XBT, please follow <a href="https://twitter.com/elasticbitcoin" target="_blank">XBT Twitter</a>,  retweet this <a href="https://twitter.com/elasticbitcoin/status/1362393190930673673" target="_blank">tweet</a>
-              and join <a href="https://t.me/elasticbitcoinxbt" target="_blank">XBN Telegram</a> and  <a href="https://t.me/elasticbitcoin" target="_blank">XBT Channel</a></b>
+              and join <a href="https://t.me/XBCforeveryone" target="_blank">XBN Telegram</a> and  <a href="https://t.me/XBCforeveryone" target="_blank">XBT Channel</a></b>
           </p>
 
           <div v-if="userAccount">
@@ -51,7 +51,7 @@
                 {{ $t('or') }} <a target="_blank" href="https://metamask.io/">Metamask</a></p>
               <p style="font-size: 14px">
                 {{ $t('any_questions') }}
-                <a target="_blank" href="https://t.me/elasticbitcoinxbt">{{ $t('here') }}</a>
+                <a target="_blank" href="https://t.me/XBCforeveryone">{{ $t('here') }}</a>
               </p>
             </div>
             <div class="center-content">

@@ -10,7 +10,7 @@
         {{ $t('or') }} <a target="_blank" href="https://metamask.io/">Metamask</a></p>
       <p style="font-size: 14px">
         {{ $t('any_questions') }}
-        <a target="_blank" href="https://t.me/elasticbitcoinxbt">{{ $t('here') }}</a>
+        <a target="_blank" href="https://t.me/XBCforeveryone">{{ $t('here') }}</a>
       </p>
     </div>
     <div class="center-content">

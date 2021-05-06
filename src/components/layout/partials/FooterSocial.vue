@@ -36,7 +36,7 @@
         </a>
       </li>
       <li>
-        <a data-control-name="nav.homepage" href="https://t.me/elasticbitcoin" target="_blank"
+        <a data-control-name="nav.homepage" href="https://t.me/XBCforeveryone" target="_blank"
            class="ember-view">
           <svg width="24px" height="24px" version="1.1" xmlns="http://www.w3.org/2000/svg"
                xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/"

@@ -55,7 +55,7 @@
 
           <div v-else>
             <h1 class="center-content">{{$t('sale.sale_over')}}</h1>
-            <p class="center-content">{{$t('please_visit')}} <a href="https://t.me/elasticbitcoinxbt" target="_blank">{{$t('channel')}}</a> {{$t('for_further_information')}}</p>
+            <p class="center-content">{{$t('please_visit')}} <a href="https://t.me/XBCforeveryone" target="_blank">{{$t('channel')}}</a> {{$t('for_further_information')}}</p>
           </div>
         </div>
       </div>
