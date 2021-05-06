@@ -85,7 +85,7 @@
                     },
                     {
                         image: require('@/assets/images/elasticbitcoin-HOLDINGS-RISE-WITH-MARKET-CAP.png'),
-                        title: "Anti Pump-Dump-Exist Whales",
+                        title: "Anti Pump-Dump Whales",
                         description: "Transactions (sell/buy) that trade more than 0.05% of the total supply will be rejected. Whales who make a transfer (between 2 wallets) that is larger than 0,05% of the total supply will be charged for 2 BNB."
                     },
                     {
