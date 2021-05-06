@@ -45,7 +45,7 @@
 <!--                                <router-link to="/xbt/investment-fund/">XBT Fund</router-link>-->
 <!--                            </li>-->
                             <li>
-                                <router-link to="/sales/">Sales</router-link>
+                                <a href="https://xbn.finance/sales/">Sales</a>
                             </li>
                         </ul>
                         <ul v-if="!hideSignin" class="list-reset header-nav-right">

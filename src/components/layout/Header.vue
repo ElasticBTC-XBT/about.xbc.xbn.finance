@@ -66,7 +66,7 @@
                                 <a href="https://www.xbn.finance/xbn/airdrop/">{{ $t("airdrop.airdrop") }}</a>
                             </li>
                           <li @click="closeMenu">
-                            <a to="https://www.xbn.finance/xbn/sales/"><img src="https://i.imgur.com/jmPNlwr.png" style="height: 17px; display: inline-block; margin-bottom: -2px">Sales</a>
+                            <a href="https://www.xbn.finance/xbn/sales/"><img src="https://i.imgur.com/jmPNlwr.png" style="height: 17px; display: inline-block; margin-bottom: -2px">Sales</a>
                           </li>
 
                         </ul>
@@ -78,8 +78,8 @@
                         </ul>
                       <ul class="list-reset header-nav-right">
                         <c-button tag="a" class="button button-primary button-sm" color="primary" wide-mobile
-                                  href="https://xbc.xbn.finance" >
-                          XBC App
+                                  href="https://app.xbc.xbn.finance" >
+                          Launch App
                         </c-button>
                       </ul>
                     </div>

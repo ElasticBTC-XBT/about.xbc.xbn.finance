@@ -15,7 +15,7 @@
                 ]">
                 <div class="cta-slogan reveal-from-left">
                     <h3 class="m-0">
-                        Become a part of XBN community today!
+                        Become a part of XBC community today!
                     </h3>
                 </div>
                 <div class="cta-action reveal-from-right">

@@ -25,14 +25,14 @@
 
                     </a>
                 </li> -->
-                <li>
-                    <a class="flex-center"
-                       href="https://goswapp-bsc.web.app/0x0321394309CaD7E0E424650844c3AB3b659315d3"
-                       target="_blank">
-                        <c-image width="24" height="24" :src="require('@/assets/images/goswap.png')"></c-image>
-                        <span class="ml-8">Goswapp</span>
-                    </a>
-                </li>
+<!--                <li>-->
+<!--                    <a class="flex-center"-->
+<!--                       href="https://goswapp-bsc.web.app/0x0321394309CaD7E0E424650844c3AB3b659315d3"-->
+<!--                       target="_blank">-->
+<!--                        <c-image width="24" height="24" :src="require('@/assets/images/goswap.png')"></c-image>-->
+<!--                        <span class="ml-8">Goswapp</span>-->
+<!--                    </a>-->
+<!--                </li>-->
                 <li>
                     <a class="flex-center"
                        href="https://1inch.exchange/#/BUSD/0x0321394309CaD7E0E424650844c3AB3b659315d3?network=56"
@@ -49,6 +49,14 @@
                         <span class="ml-8">CoinGecko</span>
                     </a>
                 </li>
+              <li>
+                <a class="flex-center"
+                   href="https://coinmarketcap.com/currencies/xbn-community-token/"
+                   target="_blank">
+                  <c-image width="24" height="24" :src="require('@/assets/images/cmc.png')"></c-image>
+                  <span class="ml-8">CoinMarketCap</span>
+                </a>
+              </li>
             </ul>
         </div>
     </nav>
