@@ -3,7 +3,7 @@
         <h1 class="m-0">
             <router-link to="/">
                 <c-image
-                    :src="require('@/assets/images/XBN-GRADIANT-PNG.png')"
+                    :src="require('@/assets/images/logo.png')"
                     alt="XBN"
                     :width="127"
                     :height="48" />

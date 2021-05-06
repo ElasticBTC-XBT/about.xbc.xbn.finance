@@ -43,7 +43,7 @@
                 </li>
                 <li>
                     <a class="flex-center"
-                       href="https://www.coingecko.com/en/coins/elastic-bnb"
+                       href="https://www.coingecko.com/en/coins/xbn-community-token"
                        target="_blank">
                         <c-image width="24" height="24" :src="require('@/assets/images/coingecko.png')"></c-image>
                         <span class="ml-8">CoinGecko</span>
