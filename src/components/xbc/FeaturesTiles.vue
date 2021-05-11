@@ -96,7 +96,7 @@
                     {
                         image: require('@/assets/images/elasticbitcoin-REBASE-LAG-FACTOR.png'),
                         title: "All Liquidity Pool Token Burned",
-                        description: "All initial liquidity provided has been burned. The contract owner has been renounced, leaving the contract trustless for the XBC community."
+                        description: "All initial liquidity provided has been burned, leaving the contract trustless for the XBC community."
                     },
                 ]
             }
