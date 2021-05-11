@@ -72,7 +72,7 @@ export default {
         },
         {
           "title": "What is the BNB pool",
-          "answer": "4% of every transaction is taken and re-distributed to all XBC holders in $BNB. This amount of BNB called the BNB pool.\n"
+          "answer": "2.5% of every transaction is taken and re-distributed to all XBC holders in $BNB. This amount of BNB called the BNB pool.\n"
         },
         {
           "title": "What if I don’t claim BNB reward in my cycle",

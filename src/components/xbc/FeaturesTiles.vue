@@ -71,12 +71,12 @@
                     {
                         image: require('@/assets/images/elasticbitcoin-A-NEW-DEFI-PROTOCOL.png'),
                         title: "Automatic Liquidity Pool",
-                        description: "4% of every transaction contributes toward automatically generating further liquidity on Pancake Swap. Benefiting long term for $XBC holders the most!",
+                        description: "2.5% of every transaction contributes toward automatically generating further liquidity on Pancake Swap. Benefiting long term for $XBC holders the most!",
                     },
                     {
                         image: require('@/assets/images/elasticbitcoin-RANDOMIZED-REBASING.png'),
                         title: "Earn $BNB by hodling $XBC",
-                        description: "4% of every transaction is taken and re-distributed to all XBC holders in $BNB.",
+                        description: "2.5% of every transaction is taken and re-distributed to all XBC holders in $BNB.",
                     },
                     {
                         image: require('@/assets/images/elasticbitcoin-PRICE-TARGET-OF-1-BTC.png'),
@@ -91,12 +91,12 @@
                     {
                         image: require('@/assets/images/elasticbitcoin-A-REBASE-EVENT.png'),
                         title: "RFI Static Rewards",
-                        description: "2% of every transaction is taken and re distributed to all $XBC holders. The burn address is also a holder thus each transaction helps deflate the supply."
+                        description: "5% of every transaction is taken and re distributed to all $XBC holders. The burn address is also a holder thus each transaction helps deflate the supply."
                     },
                     {
                         image: require('@/assets/images/elasticbitcoin-REBASE-LAG-FACTOR.png'),
                         title: "All Liquidity Pool Token Burned",
-                        description: "All initial liquidity provided has been burned. The contract owner has been renounced, leaving the contract trustless for the XBC community."
+                        description: "All initial liquidity provided has been burned, leaving the contract trustless for the XBC community."
                     },
                 ]
             }
