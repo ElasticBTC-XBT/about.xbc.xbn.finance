@@ -6,7 +6,7 @@
                     <a href="https://bscscan.com/token/0x0321394309CaD7E0E424650844c3AB3b659315d3" target="_blank"
                        class="flex-center">
                         <c-image width="24" height="24" :src="require('@/assets/images/bscscan.png')"></c-image>
-                        <span class="ml-8 mr-12">BscScan</span>
+                        <span class="ml-8 mr-12"></span>
                     </a>
                 </li>
                 <li>
@@ -14,7 +14,7 @@
                        href="https://v1exchange.pancakeswap.finance/#/swap?outputCurrency=0x0321394309CaD7E0E424650844c3AB3b659315d3"
                        target="_blank">
                         <c-image width="24" height="24" :src="require('@/assets/images/pancakeswap.png')"></c-image>
-                        <span class="ml-8">PancakeSwap</span>
+                        <span class="ml-8"></span>
                     </a>
                 </li>
                 <!-- <li>
@@ -38,7 +38,7 @@
                        href="https://1inch.exchange/#/BUSD/0x0321394309CaD7E0E424650844c3AB3b659315d3?network=56"
                        target="_blank">
                         <c-image width="24" height="24" :src="require('@/assets/images/1inch.png')"></c-image>
-                        <span class="ml-8">1nch</span>
+                        <span class="ml-8"></span>
                     </a>
                 </li>
                 <li>
@@ -46,7 +46,7 @@
                        href="https://www.coingecko.com/en/coins/xbn-community-token"
                        target="_blank">
                         <c-image width="24" height="24" :src="require('@/assets/images/coingecko.png')"></c-image>
-                        <span class="ml-8">CoinGecko</span>
+                        <span class="ml-8"></span>
                     </a>
                 </li>
               <li>
@@ -54,7 +54,15 @@
                    href="https://coinmarketcap.com/currencies/xbn-community-token/"
                    target="_blank">
                   <c-image width="24" height="24" :src="require('@/assets/images/cmc.png')"></c-image>
-                  <span class="ml-8">CoinMarketCap</span>
+                  <span class="ml-8"></span>
+                </a>
+              </li>
+              <li>
+                <a class="flex-center"
+                   href="https://github.com/TechRate/Smart-Contract-Audits/blob/main/XBN%20Community%20Token%20Smart%20Contract%20Security%20Audit.pdf"
+                   target="_blank">
+                  <c-image width="24" height="24" :src="require('@/assets/images/techrate.png')"></c-image>
+                  <span class="ml-8"></span>
                 </a>
               </li>
             </ul>
