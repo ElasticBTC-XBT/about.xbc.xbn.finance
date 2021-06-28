@@ -233,7 +233,7 @@ let routers = [
         viShort: '/vi',
         krShort: '/kr',
     }, {
-        path: '/xbn/last-survior',
+        path: '/xbc/last-survior',
         name: 'xbn_last_survior',
         components: {
             default: LastSurvior,
