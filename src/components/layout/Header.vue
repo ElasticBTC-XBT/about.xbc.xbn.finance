@@ -26,10 +26,16 @@
                 class="list-reset text-xxs"
                 :class="navPosition && `header-nav-${navPosition}`">
 
+              <li @click="closeMenu" >
+
+                <a href="https://docs.xbc.xbn.finance/">Last Survivor</a>
+
+
+              </li>
+
               <li @click="closeMenu" class="item-header-main">
 
                 <a href="https://docs.xbc.xbn.finance/">White Paper</a>
-
 
 
               </li>
