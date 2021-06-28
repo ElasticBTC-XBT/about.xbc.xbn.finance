@@ -31,34 +31,10 @@
                 <a href="https://docs.xbc.xbn.finance/">White Paper</a>
 
 
-                <!-- <div class="list-item-header-child">
-                  <ul>
 
-                    <li @click="closeMenu">
-                      <router-link to="/governance/">Governance</router-link>
-                    </li>
-                    <li @click="closeMenu">
-                      <router-link to="/roadmap/">Roadmap</router-link>
-                    </li>
-
-                    <li @click="closeMenu">
-                      <a href="https://elasticbitcoin.org" target="_blank">
-                        XBT
-                      </a>
-                    </li>
-                  </ul>
-                </div> -->
               </li>
 
-              <!--                            <li @click="closeMenu">-->
-              <!--                                <router-link to="/governance/">{{ $t("header.governance") }}</router-link>-->
-              <!--                            </li>-->
-              <!--                            <li @click="closeMenu">-->
-              <!--                                <router-link to="/roadmap/">{{ $t("header.roadmap") }}</router-link>-->
-              <!--                            </li>-->
-              <!--                          <li @click="closeMenu">-->
-              <!--                            <router-link to="/xbn/sales/">XBN Sales</router-link>-->
-              <!--                          </li>-->
+
               <li @click="closeMenu">
                 <a href="https://xbn.finance">XBN</a>
               </li>
