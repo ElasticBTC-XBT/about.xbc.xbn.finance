@@ -27,7 +27,6 @@
     "moment": "^2.29.1",
     "moment-countdown": "^0.0.3",
     "next": "^10.0.1",
-    "node-sass": "^4.12.0",
     "numeral": "^2.0.6",
     "sass-loader": "^7.1.0",
     "sweet-modal-vue": "^2.0.0",
@@ -49,6 +48,7 @@
     "babel-eslint": "^10.0.1",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
+    "sass": "^1.35.1",
     "vue-fragment": "^1.5.1",
     "vue-template-compiler": "^2.6.10",
     "vue2-touch-events": "^2.0.0"
