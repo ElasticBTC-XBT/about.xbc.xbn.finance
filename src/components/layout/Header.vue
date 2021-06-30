@@ -28,7 +28,7 @@
 
               <li @click="closeMenu" >
 
-                <a href="https://docs.xbc.xbn.finance/">Last Survivor</a>
+                <a href="https://xbc.xbn.finance/#lastsurvivor">Last Survivor</a>
 
 
               </li>
